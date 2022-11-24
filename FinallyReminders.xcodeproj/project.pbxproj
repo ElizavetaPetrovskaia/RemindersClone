@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		F0B29272292AFD01005F9109 /* FinallyReminders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinallyReminders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0B29275292AFD01005F9109 /* FinallyRemindersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinallyRemindersApp.swift; sourceTree = "<group>"; };
-		F0B29277292AFD01005F9109 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F0B29277292AFD01005F9109 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 0; };
 		F0B29279292AFD01005F9109 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0B2927C292AFD01005F9109 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

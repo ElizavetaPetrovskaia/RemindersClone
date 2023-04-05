@@ -1,4 +1,5 @@
-# ReminderClone [This is a simple iOS application that I developed as my first project using Swift. The app is a clone of the Reminders app that comes pre-installed on Apple devices].
+# ReminderClone 
+This is a simple iOS application that I developed as my first project using Swift. The app is a clone of the Reminders app that comes pre-installed on Apple devices.
 
 Getting Started
 
